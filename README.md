@@ -148,7 +148,7 @@ The `learn submit` and the Learn CLI automate all the low-level `git` interactio
 
 With `learn open` and `learn submit` you are ready to work on Learn. You now know how those commands work and interact with `git`, which is great, but you should feel comfortable not using `git` right now, it's low-level and everything is automated by the `learn` CLI.
 
-**The only two commands you need to know to work on Learn are:**
+**The only three commands you need to know to work on Learn are:**
 
 **1. `learn open` to fork and clone your lab locally so you can work on it.**
 **2. `learn test` to run your local tests.**
