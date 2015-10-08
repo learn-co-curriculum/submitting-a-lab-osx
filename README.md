@@ -7,7 +7,9 @@ resources:
 
 # Submitting A Lab Osx
 
-You solved the lab, your tests are passing, and now you need to submit a solution. There are two ways to submit a lab:
+**Note: This is an informational README. You just have to read and conceptualize these workflows. Don't try to execute these commands yet. You will have a chance to practice the entire workflow using `learn` very shortly.**
+
+Once you've opened your lab locally, solved it, and your tests are passing, you will need to submit a solution. There are two ways to submit a lab:
 
 1. Using the `git` CLI
 2. Using the `learn submit` command with the `learn` CLI. **The `learn submit` is the preferred way to submit a lab.**
@@ -26,15 +28,21 @@ If we integrated all 100 updates at once and just 1 of the updates breaks the co
 
 I can only imagine how confusing that sounds, but really, don't worry about it, the truth is that for work on Learn, there is never an instance where you care about "Staging" vs "Committing". You'll always want to stage all your changes and commit them. Because that's always true, you can just follow the workflow below and it'll just work, even if you don't entirely understand it.
 
-To stage your changes for a commit, we use `git add`. To stage all changes for a commit, you can type `git add .`, which means "Hey, Git, please stage all the new changes in the current directory."
+When you are ready to stage changes for a commit when working on a Lab use `git add`.
 
-`git add .`
+To stage all changes for a commit, you can type `git add .`, which means "Hey, Git, please stage all the new changes in the current directory."
+
+The workflow is something like this:
 
 ![1](https://dl.dropboxusercontent.com/s/55myv88uo7gu24d/2015-09-30%20at%208.34%20PM.png)
 
-Now that all the changes are staged, you can create a new commit, a new version of the code with your changes, with `git commit`. When we make a commit, we need to provide Git with a message describing the work done. Since you've solved a lab, "Solution" is a great commit message. You can commit all changes with a commit message by using `git commit -am "Message"`.
+Now that all the changes are staged, when you want to create a new commit, a new version of the code with your changes, you can use `git commit`.
+
+When we make a commit, we need to provide Git with a message describing the work done. Since you've solved a lab, "Solution" is a great commit message. When you want to commit all changes with a commit message use `git commit -am "Message"`.
 
 `git commit -am "My first commit"`
+
+It looks something like:
 
 ![1](https://dl.dropboxusercontent.com/s/9y3zt153pvaabh0/2015-05-03%20at%209.14%20PM.png)
 
@@ -42,17 +50,19 @@ After this you have a new version of your code in a new git commit on your local
 
 ### 2: Pushing Your Solution to GitHub
 
-With your commit created, you're now have upload your local code and commits to your fork/copy of the lab, "Origin", on GitHub. We do that with the `git push` command, instructing `git` to take your local changes and upload them to the `origin` remote, which is always your fork, on your GitHub account.
+With your commit created, you're now have upload your local code and commits to your fork/copy of the lab, "Origin", on GitHub.
+
+When you are ready to push a Lab's solution to GitHub, use `git push` command. `git push` instructs `git` to take your local changes and upload them to the `origin` remote, which is always your fork, on your GitHub account.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-4.png" alt="Git Workflow 4">
 
 You can think of `git push` as the opposite of `git clone`.
 
-To push your local code to GitHub, just type `git push` in Terminal.
+When you want to push your local code to GitHub, just type `git push` in Terminal, it'll look something like:
 
 ![1](https://dl.dropboxusercontent.com/s/7qta395mpnmst7x/2015-05-03%20at%209.15%20PM.png)
 
-The code you wrote to solve the lab is now up on GitHub, stored on your forked version of the original lab repository.
+The code you wrote to solve the lab is now up on GitHub, stored on your forked version of the original lab repository. You'll be able to view your Fork on GitHub and see your local changes reflected on GitHub.
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/7-solving-the-lab.png)
 
@@ -88,7 +98,7 @@ For the purposes of Learn, we only require a GitHub Pull Request as a mechanism 
 
 Here's how to open a Pull Request form GitHub to submit your solution to a lab you've forked and have pushed your solution commit to.
 
-Open your fork by clicking "View" in GitHub from Learn or just opening your forked repo on GitHub directly. From your forked repository on GitHub, click the green Pull Request Button.
+You will open your fork by clicking "View" in GitHub from Learn or just opening your forked repo on GitHub directly. From your forked repository on GitHub, you will click the green Pull Request Button.
 
 <img width="100%" height="auto" src="https://dl.dropboxusercontent.com/s/oj85qs5u079i8ub/2015-10-02%20at%201.14%20AM.png" alt="Ironboard Labs Step 4">
 
@@ -103,6 +113,8 @@ GitHub will then again prompt you to describe the Pull Request and you can just 
 Once the Pull Request is created, you're done and Learn will update the lesson progress accordingly and allow you to proceed to the next lesson.
 
 ![PR](https://dl.dropboxusercontent.com/s/zw5axlrl07e4yj3/2015-10-02%20at%201.25%20AM.png)
+
+**Note: Sometimes GitHub changes their interface and workflow a little, but the premise will always be the same.**
 
 ### Conclusion of `git` workflow
 
@@ -122,7 +134,7 @@ We don't force you to learn everything at once, but we also won't ever shy away 
 
 Once you've written the code that solves a lab, and confirmed that your solution is correct using the `learn` command, you then need to submit your solution to Learn so that you can get credit for completion and move on to the next lesson.
 
-In order to submit your solution to Learn, just run:
+In order to submit your solution to Learn, from the lab's directory in your Terminal, you will just run:
 
 ```
 learn submit
@@ -153,3 +165,5 @@ With `learn open` and `learn submit` you are ready to work on Learn. You now kno
 **1. `learn open` to fork and clone your lab locally so you can work on it.**
 **2. `learn test` to run your local tests.**
 **3. `learn submit` to submit your solution.**
+
+You are now ready to practice the Learn workflow with your first lab! Congratulations!
