@@ -122,7 +122,7 @@ The `git` CLI workflow might seem tedious and unnecessary to learning to program
 
 What we do know, what we are absolutely sure about, is that there is no way you're ever becoming a professional software developer without `git` and GitHub.
 
-Learn is about teaching you how to be a professional using and embracing professional tools. And our hope is that not only do you learn to code and get a job, but that you become a part of the open source software community and contribute to humanity through code. That's what we're preparing you for, that's why Learn is hard, because we don't just want you to teach you to code, we want you to make the improve the world with your code.
+Learn is about teaching you how to be a professional using and embracing professional tools. And our hope is that not only do you learn to code and get a job, but that you become a part of the open source software community and contribute to humanity through code. That's what we're preparing you for, that's why Learn is hard, because we don't just want you to teach you to code, we want you to improve the world with your code.
 
 ## Submitting a lab with `learn submit`
 
