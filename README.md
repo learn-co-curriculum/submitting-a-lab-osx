@@ -88,7 +88,7 @@ A Pull Request on GitHub informs the owners and maintainers of the official proj
 
 Suffice to say, Pull Requests are a powerful social feature that allow the developers to collaborate in an unprecedented scale. The Pull Request workflow is what makes GitHub social. Pull Requests are why GitHub is worth over 2 billion dollars. GitHub Pull Requests are the music of a global software orchestra.
 
-If any of that sounded intimidating, great news, you're not going to be using Pull Requests in that Open Source Workflow because you're not trying to contribute to Open Source yet.
+If any of that sounded intimidating, great news, you're not going to be using Pull Requests in that Open Source Workflow because you're not trying to contribute to Open Source *yet*.
 
 The entire point of our workflow is to prepare you for that - to be in the top 1% percent of developers who contribute to Open Source and make the world a better place through software every single day.
 
