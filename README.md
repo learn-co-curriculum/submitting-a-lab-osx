@@ -50,7 +50,7 @@ After this you have a new version of your code in a new git commit on your local
 
 ### 2: Pushing Your Solution to GitHub
 
-With your commit created, you're now have upload your local code and commits to your fork/copy of the lab, "Origin", on GitHub.
+With your commit created, you now have to upload your local code and commits to your fork/copy of the lab, "Origin", on GitHub.
 
 When you are ready to push a Lab's solution to GitHub, use `git push` command. `git push` instructs `git` to take your local changes and upload them to the `origin` remote, which is always your fork, on your GitHub account.
 
