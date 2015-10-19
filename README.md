@@ -90,7 +90,7 @@ Suffice to say, Pull Requests are a powerful social feature that allow the devel
 
 If any of that sounded intimidating, great news, you're not going to be using Pull Requests in that Open Source Workflow because you're not trying to contribute to Open Source *yet*.
 
-The entire point of our workflow is to prepare you for that - to be in the top 1% percent of developers who contribute to Open Source and make the world a better place through software every single day.
+The entire point of our workflow is to prepare you for that - to be in the top 1% of developers who contribute to Open Source and make the world a better place through software every single day.
 
 #### Creating a Pull Request to Submit Your Solution
 
