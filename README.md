@@ -102,7 +102,7 @@ You will open your fork by clicking "View" in GitHub from Learn or just opening 
 
 <img width="100%" height="auto" src="https://dl.dropboxusercontent.com/s/oj85qs5u079i8ub/2015-10-02%20at%201.14%20AM.png" alt="Ironboard Labs Step 4">
 
-GitHub will prompt you to review the Pull Request before submitting and tell you to "Create Pull Request". Click the green "Create Pull Request" button on the review page. You do not need to review anything on this page and can skip it entirely by just immediately click the "Create Pull Request" button.
+GitHub will prompt you to review the Pull Request before submitting and tell you to "Create Pull Request". Click the green "Create Pull Request" button on the review page. You do not need to review anything on this page and can skip it entirely by just immediately clicking the "Create Pull Request" button.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4e.jpg" alt="Ironboard Labs Step 4e">
 
