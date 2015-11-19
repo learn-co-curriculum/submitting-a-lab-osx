@@ -76,7 +76,7 @@ A Pull Request is a feature of GitHub that allows developers to collaborate on c
 
 Imagine working on a project with 1000s of people across the planet that you've never met. And then imagine that this spontaneous collaboration was all happening at the exact same time, for free, without anyone ever asking anyone to do anything. That's open source software. The Ruby on Rails framework is written by 4,083 people. Linux has had over 12,000 people contribute to the free operating system. Open Source is the entire world working together to build free, superior software. It's magic.
 
-Literally thousands of people that have never met, who share no bond or  common language beyond a love of code, all over the planet, are working together every single second. How is that even possible? How is it not chaos? How are people not breaking things, stepping on each other's toe, doing redundant unneeded work, and just creating a giant unmanageable mess?
+Literally thousands of people that have never met, who share no bond or  common language beyond a love of code, all over the planet, are working together every single second. How is that even possible? How is it not chaos? How are people not breaking things, stepping on each other's toes, doing redundant unneeded work, and just creating a giant unmanageable mess?
 
 The answer to what makes this massively open, spontaneous, free, and world-wide collaboration possible, is GitHub. Specifically, it is GitHub Pull Requests.
 
@@ -88,13 +88,13 @@ A Pull Request on GitHub informs the owners and maintainers of the official proj
 
 Suffice to say, Pull Requests are a powerful social feature that allow the developers to collaborate in an unprecedented scale. The Pull Request workflow is what makes GitHub social. Pull Requests are why GitHub is worth over 2 billion dollars. GitHub Pull Requests are the music of a global software orchestra.
 
-If any of that sounded intimidating, great news, you're not going to be using Pull Requests in that Open Source Workflow because you're not trying to contribute to Open Source *yet*.
+If any of that sounded intimidating, great news: you're not going to be using Pull Requests in that Open Source Workflow because you're not trying to contribute to Open Source *yet*.
 
 The entire point of our workflow is to prepare you for that - to be in the top 1% of developers who contribute to Open Source and make the world a better place through software every single day.
 
 #### Creating a Pull Request to Submit Your Solution
 
-For the purposes of Learn, we only require a GitHub Pull Request as a mechanism to inform Learn that you're done with a lab and you're to submit it, have your solution automatically tested so you get credit for solving the lab, and providing a mechanism for the community to review and comment on your solution.
+For the purposes of Learn, we only require a GitHub Pull Request as a mechanism to inform Learn that you're done with a lab and you're ready to submit it. Creating a Pull Request will have your solution automatically tested so you get credit for solving the lab, and provide a mechanism for the community to review and comment on your solution.
 
 Here's how to open a Pull Request from GitHub to submit your solution to a lab you've forked and have pushed your solution commit to.
 
