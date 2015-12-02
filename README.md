@@ -167,3 +167,5 @@ With `learn open` and `learn submit` you are ready to work on Learn. You now kno
 **3. `learn submit` to submit your solution.**
 
 You are now ready to practice the Learn workflow with your first lab! Congratulations!
+
+<a href='https://learn.co/lessons/submitting-a-lab-osx' data-visibility='hidden'>View this lesson on Learn.co</a>
