@@ -168,4 +168,4 @@ With `learn open` and `learn submit` you are ready to work on Learn. You now kno
 
 You are now ready to practice the Learn workflow with your first lab! Congratulations!
 
-<a href='https://learn.co/lessons/submitting-a-lab-osx' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/submitting-a-lab-osx' title='Submitting A Lab Osx'>Submitting A Lab Osx</a> on Learn.co and start learning to code for free.</p>
